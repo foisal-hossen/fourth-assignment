@@ -1,4 +1,4 @@
-// problem 01: radian to degree.
+// problem 01: radian to degree  .
 function radianToDegree(radian) {
   if (typeof radian !== 'number') {
     return "please enter the number";
